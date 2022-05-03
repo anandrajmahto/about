@@ -7,9 +7,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anandrajmahto" alt="anandrajmahto" /></a> </p>
 
 
-- 
-
-- ⚡ Fun fact **I think i am Funny**
 - <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 
